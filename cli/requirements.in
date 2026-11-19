@@ -1,0 +1,4 @@
+# Regenerate requirements.txt from this directory:
+# uv pip compile requirements.in --python-version 3.14 --python-platform aarch64-apple-darwin --generate-hashes --no-emit-index-url -o requirements.txt
+keyring==25.7.0
+mcp==2.3.0
